@@ -37,7 +37,7 @@ The project demonstrates the complete machine learning workflow including:
 
 The project uses:
 
-- **YOLOR (You Only Learn One Representation)**
+- **YOLOR (You Only Look Once Representation)**
 - PyTorch
 - CUDA GPU acceleration
 - Mish CUDA
@@ -132,34 +132,19 @@ The project successfully demonstrates:
 
 ---
 
-## 🔬 Future Improvements
-
-- Upgrade to YOLOv11/YOLOv12
-- Deploy using Flask/FastAPI
-- Edge deployment on NVIDIA Jetson
-- Real-time webcam inference
-- Mobile deployment
-- Larger and more diverse dataset
-
----
-
 ## 🎓 Academic Information
 
 **Project:** Final Year Project
 
 **University:** The University of Adelaide
 
-**Degree:** Bachelor of Computer Science *(Update if different)*
+**Degree:** Masters in Machine Learning
 
 ---
 
 ## 👨‍💻 Author
 
 **Nimish Pathak**
-
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 
 ---
 
@@ -175,8 +160,3 @@ Special thanks to:
 
 ---
 
-## 📄 License
-
-This project was developed for academic purposes as part of my Final Year Project at The University of Adelaide.
-
-Feel free to use this repository for learning and research purposes.
